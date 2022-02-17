@@ -8,18 +8,18 @@ sidebar_label: Traits
 Add intro to general game concepts here
 :::
 
-# Permanent Traits
+## Permanent Traits
 :::caution todo
 Describe permanent traits
 :::
-## Mind Traits
-## Body Traits
-## Soul Traits
+### Mind Traits
+### Body Traits
+### Soul Traits
 
-# Temporary Traits
+## Temporary Traits
 :::caution todo
 Describe temporary traits
 :::
-## Mind Traits
-## Body Traits
-## Soul Traits
+### Mind Traits
+### Body Traits
+### Soul Traits
