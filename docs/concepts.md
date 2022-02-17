@@ -35,17 +35,32 @@ when a category would be reduced to less than zero, it is reset to zero and that
 
 # Game Dice & Checks
 :::caution rough idea
-d20 used for success or failure
+2d6
 
-d12 used for magnitude
+if one or more traits are applicable to the roll, add the highest one to the result of the dice
 
-d20 is either a pass or fail depending on if the result is less than a threshold or not
-checks are contested when possible, and are done out in the open
-if a contested check doesn't make sense, a set difficulty can take place of the opposing check
+if more than one trait is applicable, one of the d6 can be rerolled
 
-d12 shows how impactful that success or failure is (a 1 means success/failure, but only barely, while a 12 means critical success or failure)
+results are as follows:
 
-natural 1 or 20 on the d20 is used by weapons for critical hit/miss effects
+3 and less: "no, and" (great failure)
+
+4-5: "no" (failure)
+
+6-7: "no, but" (partial failure)
+
+8-9: "yes, but" (partial success)
+
+10-11: "yes" (success)
+
+12 and greater: "yes, and" (great success)
+
+there are two exceptions, which is when both dice roll ones or sixes:
+
+snake eyes: disaster (critical success regardless of numerical result)
+
+box cars: triumph (critical success, regardless of numerical result)
+
 :::
 
 # Abilities
